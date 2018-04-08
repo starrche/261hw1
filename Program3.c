@@ -2,6 +2,7 @@
 /* Name: Chelsea Starr
  * Date: 4/10/18
  * Solution description: used selection sort
+ * If n = 0; the program runs fine (no seg faults, etc), nothing is printed.
  */
 
 #include <stdio.h>
